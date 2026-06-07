@@ -1,0 +1,7 @@
+{
+  "name": "SERVIVIDA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
