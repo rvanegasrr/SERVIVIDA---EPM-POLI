@@ -1,5 +1,5 @@
 ion-menu-button {
-  color: var(--ion-color-primary);
+  color: rgb(0, 60, 255);
 }
 
 #container {
@@ -9,6 +9,7 @@ ion-menu-button {
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+  background-color:rgb(255, 255, 255);
 }
 
 #container strong {
@@ -19,7 +20,7 @@ ion-menu-button {
 #container p {
   font-size: 16px;
   line-height: 22px;
-  color: #8c8c8c;
+  color: #000000;
   margin: 0;
 }
 
